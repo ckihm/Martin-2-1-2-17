@@ -1,10 +1,40 @@
-## Welcome to GitHub Pages
+# Pictures of my Martin 2 1/2-17
 
-You can use the [editor on GitHub](https://github.com/ckihm/Martin-2-1-2-17/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Martin Stamps
 
-### Markdown
+## Top
+
+### Purfling
+
+### Rosette
+
+### Bridge
+
+### Belly
+
+## Back
+
+## Sides
+
+## Neck
+
+### Nut
+
+### Fretboard
+
+### Frets
+
+## Headstock
+
+## Bracing / Lining
+
+### Top Bracing
+
+### Back Bracing
+
+### Lining
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
