@@ -3,6 +3,18 @@
 
 ## Martin Stamps
 
+"C. F. Martin & Co - New York" stamp on the center strip.
+
+![Image](./images/stamps/IMG_20210416_231832.jpg)
+
+"C. F. Martin & Co - New York" stamp on the neck block.
+
+![Image](./images/stamps/IMG_20210416_225732.jpg)
+
+The "C. F. Martin - New York" stamp on the back is not very precise stamped into the wood. The New York part looks like it was stamped two times. What do you think, is it a fake stamp? Have you seen something like this on other martins?
+
+![Image](./images/stamps/IMG_20210416_215432.jpg)
+
 ## Top
 
 ### Purfling
@@ -11,7 +23,7 @@
 
 ### Bridge
 
-### Belly
+### Belly in the Top
 
 ## Back
 
