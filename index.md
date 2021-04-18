@@ -6,6 +6,16 @@ _First, what does the stamp state: "C. F. Martin" or "C. F. Martin & Co." If it 
 
 I believe it was dated under the top in pencil, but during a repair of the top cracks the pencil was sanded away except of a small part, which is not enough to guess any number from it. If you do find any other hint on the pictures to date it more precisely, please let me know.
 
+### Ed Badeaux
+
+The name E. or Ed Badeaux has been scratched into the page in old script. Maybe it is the musician and guitar teacher [Edward Badeaux Jr. from Houston](https://de.findagrave.com/memorial/155439384/edward-raoul-badeaux). For any information about the potential owner, I would be happy as it would help to understand the history of this guitar better.
+
+![Image](./images/badeaux/IMG_20210418_131458.jpg)
+
+![Image](./images/badeaux/IMG_20210418_131506.jpg)
+
+![Image](./images/badeaux/IMG_20210418_132630.jpg)
+
 ## Martin Stamps
 
 `C. F. Martin & Co - New York` stamp on the center strip.
