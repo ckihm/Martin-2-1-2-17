@@ -4,7 +4,7 @@ Below I have added many detail pictures of my martin. The guitar should be build
 
 _First, what does the stamp state: "C. F. Martin" or "C. F. Martin & Co." If it has the "C. F. Martin" stamp it was made before August 1867. If not it was made between August 1867 and 1898. Martin stopped making this model in 1898 (although Martin did make some between 1909 and 1914)._
 
-I believe it was dated under the top in pencil, but during a repair of the top cracks the pencil was sanded away except of a small part, which is not enough to guess any number from it.
+I believe it was dated under the top in pencil, but during a repair of the top cracks the pencil was sanded away except of a small part, which is not enough to guess any number from it. If you do find any other hint on the pictures to date it more precisely, please let me know.
 
 ## Martin Stamps
 
