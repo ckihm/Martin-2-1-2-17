@@ -122,19 +122,63 @@ The back starts to seperate from the side.
 
 ## Neck
 
-![Image](./images/stamps/)
+The neck on this one is unbelievable narrow. It feals like the neck on an fender guitar, except that it has a V shape. Are the original necks on these models as slim as the one on this guitar?
+
+![Image](./images/neck/IMG_20210416_214323.jpg)
+
+![Image](./images/neck/IMG_20210416_214405.jpg)
+
+![Image](./images/neck/IMG_20210416_214831.jpg)
+
+The finish is quite thick and there are some spots where the black finish is splittet away. There are some dings in the neck and the wood which is appearing there looks quite bright. It may be a maple neck.
+
+![Image](./images/neck/IMG_20210416_214938.jpg)
+
+![Image](./images/neck/IMG_20210416_215052.jpg)
+
+There is one area which makes me a little bit nervous. It looks like two parts with a triangular surface have been glued together. You can also feel a small dent at this point. It's hard to see in the photos. I tried to show the edges with a line in the second picture. Do you think the neck was broken at some point in time and this was a repair job?
+
+![Image](./images/neck/IMG_20210416_215131_BURST1.jpg)
+
+![Image](./images/neck/InkedIMG_20210416_215131_BURST1_LI.jpg)
+
+A hairline crack can also be seen at the connection point between the headstock and the neck.
+
+![Image](./images/neck/IMG_20210416_214732.jpg)
+
+The ice cream cone heel look fine to me.
+
+![Image](./images/neck/IMG_20210416_215157.jpg)
+
+![Image](./images/neck/IMG_20210416_215247.jpg)
+
+![Image](./images/neck/IMG_20210416_215337.jpg)
 
 ### Nut
 
-![Image](./images/stamps/)
+The nut is not symetric and the action of the strings is very low.
+
+![Image](./images/nut/IMG_20210416_225340.jpg)
 
 ### Fretboard
 
-![Image](./images/stamps/)
+The fretboard doesn't look that good anymore. In some places small pieces have broken out. But what is particularly noticeable is that between the frets it looks like someone has scooped something out (scalloped).
+
+![Image](./images/fretboard/IMG_20210416_225400.jpg)
+
+![Image](./images/fretboard/IMG_20210416_225406.jpg)
+
 
 ### Frets
 
-![Image](./images/stamps/)
+The frets are bar frets that look original. However, some of them protrude a little over the fingerboard and are quite low. The shape is almost square.
+
+![Image](./images/frets/IMG_20210416_214616.jpg)
+
+![Image](./images/frets/IMG_20210416_214636.jpg)
+
+![Image](./images/frets/IMG_20210416_220555.jpg)
+
 
 ## Headstock
 
