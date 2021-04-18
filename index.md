@@ -3,50 +3,97 @@
 
 ## Martin Stamps
 
-"C. F. Martin & Co - New York" stamp on the center strip.
+`C. F. Martin & Co - New York` stamp on the center strip.
 
 ![Image](./images/stamps/IMG_20210416_231832.jpg)
 
-"C. F. Martin & Co - New York" stamp on the neck block.
+`C. F. Martin & Co - New York` stamp on the neck block.
 
 ![Image](./images/stamps/IMG_20210416_225732.jpg)
 
-The "C. F. Martin - New York" stamp on the back is not very precise stamped into the wood. The New York part looks like it was stamped two times. What do you think, is it a fake stamp? Have you seen something like this on other martins?
+The `C. F. Martin - New York` stamp on the back is not very precise stamped into the wood. The New York part looks like it was stamped two times. What do you think, is it a fake stamp? Have you seen something like this on other martins?
 
 ![Image](./images/stamps/IMG_20210416_215432.jpg)
 
+
 ## Top
 
-### Purfling
+On the Top are several repaired cracks and underneath the soundhole the finish is completely off. I guess it is due the heavy use of a plectrum.
+
+![Image](./images/top/IMG_20210416_220813.jpg)
+
+![Image](./images/top/IMG_20210416_220827.jpg)
+
+![Image](./images/top/IMG_20210416_220908.jpg)
+
+![Image](./images/top/IMG_20210416_220918.jpg)
+
+### Binding
+
+The purfling is in overall good condition. There is only one part near the tail where the purfling is separating a bit from the top.
+
+![Image](./images/binding/IMG_20210416_220606.jpg)
+
+![Image](./images/binding/IMG_20210416_220859.jpg)
+
 
 ### Rosette
 
+The colors of the rosette purfling is bleached out and there are several notches in the wood at the soundhole.
+
+![Image](./images/rosette/IMG_20210416_221000.jpg)
+
 ### Bridge
+
+![Image](./images/stamps/)
 
 ### Belly in the Top
 
+![Image](./images/stamps/)
+
 ## Back
+
+![Image](./images/stamps/)
 
 ## Sides
 
+![Image](./images/stamps/)
+
 ## Neck
+
+![Image](./images/stamps/)
 
 ### Nut
 
+![Image](./images/stamps/)
+
 ### Fretboard
+
+![Image](./images/stamps/)
 
 ### Frets
 
+![Image](./images/stamps/)
+
 ## Headstock
+
+![Image](./images/stamps/)
 
 ## Bracing / Lining
 
+![Image](./images/stamps/)
+
 ### Top Bracing
+
+![Image](./images/stamps/)
 
 ### Back Bracing
 
+![Image](./images/stamps/)
+
 ### Lining
 
+![Image](./images/stamps/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
