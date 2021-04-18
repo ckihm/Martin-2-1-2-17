@@ -1,5 +1,10 @@
 # Pictures of my Martin 2 1/2-17
 
+Below I have added many detail pictures of my martin. The guitar should be build somewhere between 1867 and 1898. UMGF Member `hutton99` helped me to date it with the following information:
+
+_First, what does the stamp state: "C. F. Martin" or "C. F. Martin & Co." If it has the "C. F. Martin" stamp it was made before August 1867. If not it was made between August 1867 and 1898. Martin stopped making this model in 1898 (although Martin did make some between 1909 and 1914)._
+
+I believe it was dated under the top in pencil, but during a repair of the top cracks the pencil was sanded away except of a small part, which is not enough to guess any number from it.
 
 ## Martin Stamps
 
@@ -160,6 +165,11 @@ The nut is not symetric and the action of the strings is very low.
 
 ![Image](./images/nut/IMG_20210416_225340.jpg)
 
+![Image](./images/nut/IMG_20210416_214457.jpg)
+
+![Image](./images/nut/IMG_20210416_214504.jpg)
+
+
 ### Fretboard
 
 The fretboard doesn't look that good anymore. In some places small pieces have broken out. But what is particularly noticeable is that between the frets it looks like someone has scooped something out (scalloped).
@@ -182,21 +192,72 @@ The frets are bar frets that look original. However, some of them protrude a lit
 
 ## Headstock
 
-![Image](./images/stamps/)
+The Tuners for sure not original. These are the McStew tuners.
+
+![Image](./images/headstock/IMG_20210416_214555.jpg)
+
+![Image](./images/headstock/IMG_20210416_214604.jpg)
+
+![Image](./images/headstock/IMG_20210416_214722.jpg)
+
+
+Are these hairline cracks where the headstock is glued to the neck? I a repair needed?
+
+![Image](./images/headstock/IMG_20210416_225303.jpg)
+
+
 
 ## Bracing / Lining
 
-![Image](./images/stamps/)
-
 ### Top Bracing
 
-![Image](./images/stamps/)
+The guitar do have a fan bracing. The bracing is quite light. And as mentioned in the belly paragraph, at leas one of the three fan braces are brocken. On the pictures it looks like the fan braces are sligthly darker in color the other braces. On top of the original bridge plate there is a relative new supporting plate glued on.
+
+You can also see the repair job on the top and the side cracks.
+
+![Image](./images/bracing-top/IMG_20210416_225854.jpg)
+
+![Image](./images/bracing-top/IMG_20210416_225900.jpg)
+
+![Image](./images/bracing-top/IMG_20210416_225911.jpg)
+
+![Image](./images/bracing-top/IMG_20210416_225929.jpg)
+
+![Image](./images/bracing-top/IMG_20210416_230012.jpg)
+
+![Image](./images/bracing-top/IMG_20210416_230016.jpg)
+
+![Image](./images/bracing-top/IMG_20210416_230029.jpg)
+
+![Image](./images/bracing-top/IMG_20210416_230034.jpg)
+
 
 ### Back Bracing
 
-![Image](./images/stamps/)
+The back does have 5 braces.
+
+![Image](./images/bracing-back/IMG_20210416_225941.jpg)
+
+![Image](./images/bracing-back/IMG_20210416_225955.jpg)
+
+![Image](./images/bracing-back/IMG_20210416_230003.jpg)
+
+![Image](./images/bracing-back/IMG_20210416_225933.jpg)
+
+![Image](./images/bracing-back/IMG_20210416_225825.jpg)
+
+![Image](./images/bracing-back/IMG_20210416_225814.jpg)
+
+
 
 ### Lining
 
-![Image](./images/stamps/)
+![Image](./images/lining/IMG_20210416_225715.jpg)
 
+![Image](./images/lining/IMG_20210416_225742.jpg)
+
+![Image](./images/lining/IMG_20210416_225801.jpg)
+
+![Image](./images/lining/IMG_20210416_225808.jpg)
+
+![Image](./images/lining/IMG_20210416_225840.jpg)
