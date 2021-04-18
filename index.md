@@ -8,7 +8,7 @@ I believe it was dated under the top in pencil, but during a repair of the top c
 
 ### Ed Badeaux
 
-The name E. or Ed Badeaux has been scratched into the page in old script. Maybe it is the musician and guitar teacher [Edward Badeaux Jr. from Houston](https://de.findagrave.com/memorial/155439384/edward-raoul-badeaux). For any information about the potential owner, I would be happy as it would help to understand the history of this guitar better.
+The name `E. or Ed Badeaux` has been scratched into the page in old script. Maybe it is the musician and guitar teacher [Edward Badeaux Jr. from Houston](https://de.findagrave.com/memorial/155439384/edward-raoul-badeaux). For any information about the potential owner, I would be happy as it would help to understand the history of this guitar better.
 
 ![Image](./images/badeaux/IMG_20210418_131458.jpg)
 
