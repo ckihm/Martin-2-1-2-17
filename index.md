@@ -13,7 +13,14 @@ I believe it was dated under the top in pencil, but during a repair of the top c
 
 ![Image](./images/stamps/IMG_20210416_231832.jpg)
 
-`C. F. Martin & Co - New York` stamp on the neck block.
+`C. F. Martin & Co - New York` stamp on the neck block. The interesting thing is that the logo is not upside down. I found the following information on the wonderful website [www.vintagemartin.com](http://www.vintagemartin.com/stamps.html):
+
+
+_With the exception of a few early examples with the Spanish foot, such as the one above, all of the neck block stamps I've seen on Martins from the very earliest to this example built in March, 1889 are upside down._
+
+_All of the later neck block stamps read right side up.  The earliest example I've seen was stamped "2/90". This narrows the date of change from sometime between March, 1889 and February, 1890._
+
+This limits the possible year of construction to 1889 - 1898!
 
 ![Image](./images/stamps/IMG_20210416_225732.jpg)
 
