@@ -58,7 +58,7 @@ The colors of the rosette purfling is bleached out and there are several notches
 
 ### Bridge
 
-The saddle is definitely not original. It is out of bone and has a compensation on the B string. I do also believe the bridge itself is not an original pyramid one. The pins look original. What do you think?
+The saddle is definitely not original. It is out of bone and has a compensation on the B string. The pins look original.
 
 ![Image](./images/bridge/IMG_20210416_220802.jpg)
 
@@ -75,15 +75,12 @@ The saddle is definitely not original. It is out of bone and has a compensation 
 
 ### Belly in the Top
 
-Unfortunately at some point in time the guitar must have strung with steel strings. There is a significant belly in the top. In real it looks worth than on the pictures.
+Unfortunately at some point in time the guitar must have strung with steel strings. There is a slightly belly in the top. 
 
 ![Image](./images/belly/IMG_20210416_220725.jpg)
 
 ![Image](./images/belly/IMG_20210416_220738.jpg)
 
-It looks like the wrong treatment did also cause at least one brace to be broken.
-
-![Image](./images/belly/IMG_20210416_225918.jpg)
 
 
 ## Back
@@ -128,14 +125,14 @@ In the veneer at the tail (what is the name of this part?) there is also one cra
 ![Image](./images/sides/IMG_20210416_220004.jpg)
 
 
-The back starts to seperate from the side.
+The back seperates from the side on a small spot.
 
 ![Image](./images/sides/IMG_20210416_220144.jpg)
 
 
 ## Neck
 
-The neck on this one is unbelievable narrow. It feals like the neck on an fender guitar, except that it has a V shape. Are the original necks on these models as slim as the one on this guitar?
+The neck on this one is narrow. It feals like the neck on an fender guitar, except that it has a V shape.
 
 ![Image](./images/neck/IMG_20210416_214323.jpg)
 
@@ -148,12 +145,6 @@ The finish is quite thick and there are some spots where the black finish is spl
 ![Image](./images/neck/IMG_20210416_214938.jpg)
 
 ![Image](./images/neck/IMG_20210416_215052.jpg)
-
-There is one area which makes me a little bit nervous. It looks like two parts with a triangular surface have been glued together. You can also feel a small dent at this point. It's hard to see in the photos. I tried to show the edges with a line in the second picture. Do you think the neck was broken at some point in time and this was a repair job?
-
-![Image](./images/neck/IMG_20210416_215131_BURST1.jpg)
-
-![Image](./images/neck/InkedIMG_20210416_215131_BURST1_LI.jpg)
 
 A hairline crack can also be seen at the connection point between the headstock and the neck.
 
@@ -180,7 +171,7 @@ The nut is not symetric and the action of the strings is very low.
 
 ### Fretboard
 
-The fretboard doesn't look that good anymore. In some places small pieces have broken out. But what is particularly noticeable is that between the frets it looks like someone has scooped something out (scalloped).
+The fretboard doesn't look that good anymore. In some places small pieces have broken out.
 
 ![Image](./images/fretboard/IMG_20210416_225400.jpg)
 
@@ -209,7 +200,7 @@ The Tuners for sure not original. These are the McStew tuners.
 ![Image](./images/headstock/IMG_20210416_214722.jpg)
 
 
-Are these hairline cracks where the headstock is glued to the neck? I a repair needed?
+Are these hairline cracks where the headstock is glued to the neck?
 
 ![Image](./images/headstock/IMG_20210416_225303.jpg)
 
@@ -219,7 +210,7 @@ Are these hairline cracks where the headstock is glued to the neck? I a repair n
 
 ### Top Bracing
 
-The guitar do have a fan bracing. The bracing is quite light. And as mentioned in the belly paragraph, at leas one of the three fan braces are brocken. On the pictures it looks like the fan braces are sligthly darker in color the other braces. On top of the original bridge plate there is a relative new supporting plate glued on.
+The guitar do have a fan bracing. The bracing is quite light. On top of the original bridge plate there is a relative new supporting plate glued on.
 
 You can also see the repair job on the top and the side cracks.
 
